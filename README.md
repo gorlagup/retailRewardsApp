@@ -1,7 +1,7 @@
 # retailRewardsApp
 
 Rest end Point URl:
-http://localhost:8282/RetailRewards/api/rewards
+POST: http://localhost:8282/RetailRewards/api/rewards
 
 Sample Request:
 {
